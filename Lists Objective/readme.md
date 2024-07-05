@@ -1,10 +1,24 @@
-### Gradebook Project
+# Gradebook Project
 
-**Objective:** The Gradebook project is designed to give practical experience with Python lists, focusing on organizing and manipulating data. The project involves creating, modifying, and combining lists to manage a student's subjects and grades across different semesters. Key tasks include:
+The Gradebook project is a hands-on Python exercise focusing on lists, designed to simulate the management of a student's academic records. It provides practical experience with organizing and manipulating data through creating, modifying, and combining lists.
 
-- Creating lists to store subjects and their corresponding grades.
-- Combining subjects and grades into a two-dimensional list to form a gradebook.
-- Modifying the gradebook by adding new subjects and grades, adjusting grades based on instructor feedback, and changing grading schemes for specific subjects.
-- Combining the current semester's gradebook with a gradebook from a previous semester to create a comprehensive record of the student's academic performance.
+## Objective
 
-This project emphasizes the use of list operations such as appending, removing, and accessing elements to manipulate data structures effectively.
+To manage a student's subjects and grades across different semesters using Python lists, demonstrating proficiency in list operations and data manipulation.
+
+## Key Features
+
+- **List Creation**: Initiates lists to store subjects and their corresponding grades.
+- **Two-Dimensional List**: Combines subjects and grades into a two-dimensional list, forming a comprehensive gradebook.
+- **Gradebook Modification**: Includes adding new subjects and grades, adjusting existing grades based on instructor feedback, and altering grading schemes for specific subjects.
+- **Semester Integration**: Merges the current semester's gradebook with a previous semester's records to create a full academic performance overview.
+
+## Core Tasks
+
+1. Create separate lists for subjects and grades.
+2. Form a gradebook by combining these lists into a two-dimensional structure.
+3. Modify the gradebook by:
+   - Adding new subjects and grades.
+   - Adjusting grades as necessary.
+   - Changing grading schemes for particular subjects.
+4. Combine the current semester's gradebook with one from a previous semester for a complete academic history.
