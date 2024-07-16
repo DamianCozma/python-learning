@@ -11,9 +11,3 @@ Here, I track my progress as I get myself used to the Python programming languag
 ## Purpose
 
 This repository serves as a journal of my learning process. I'll document everything I encounter, from basic exercises to more complex projects. My goal is to thoroughly understand Python syntax and apply it effectively.
-
-## Repository Structure
-
-- **Objectives**: Simple tasks to practice syntax.
-- **Coding Challenges**: <i>To do</i>
-- **Projects**: Larger, more comprehensive projects to apply what I've learned.
